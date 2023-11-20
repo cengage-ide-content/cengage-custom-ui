@@ -1,4 +1,4 @@
-This extension provide a custom UI/UX for Cengage VSCode. Testtt
+This extension provide a custom UI/UX for Cengage VSCode. This is update from main
 
 ## Features
 
